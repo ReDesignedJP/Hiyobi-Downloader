@@ -1,6 +1,3 @@
-# 업뎃안함  
-불만있으면 디스코드 https://discord.gg/yVdDawF 한테 따지셈  
-
 # HiyobiDownloader
 히요비 다운로더  
 기능: 뷰어, 태그 필터, 다운로드   
