@@ -1,4 +1,6 @@
-# HiyobiDownloader
+# V2(WPF)만드는중 업데이트 없음
+
+# Hiyobi Downloader
 히요비 다운로더  
 기능: 뷰어, 태그 필터, 다운로드   
 https://discord.gg/EbBXbhV  
