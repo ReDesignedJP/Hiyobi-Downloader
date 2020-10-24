@@ -1,4 +1,4 @@
-# V2(WPF)만드는중 업데이트 없음
+# 이거쓰셈 [https://github.com/rmagur1203/HitomiViewer](https://github.com/rmagur1203/HitomiViewer)
 
 # Hiyobi Downloader
 히요비 다운로더  
